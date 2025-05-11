@@ -17,3 +17,6 @@
 11-05-2025 17:14:16  408  git push
 11-05-2025 23:04:42  392  "New Terminal"
 11-05-2025 23:08:20  393  git add .
+11-05-2025 23:08:39  394  git commit -am "learn all about Loop"
+11-05-2025 23:08:43  395  git push
+11-05-2025 23:11:26  396  git add .
