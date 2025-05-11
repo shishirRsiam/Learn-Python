@@ -11,3 +11,6 @@
 11-05-2025 17:02:31  400  git commit -am "learn 01_Basics_of_Python"
 11-05-2025 17:02:35  401  git push
 11-05-2025 17:05:05  402  git add .
+11-05-2025 17:05:09  403  git commit -am "learn 02_String"
+11-05-2025 17:05:13  404  git push
+11-05-2025 17:14:01  405  git add .
