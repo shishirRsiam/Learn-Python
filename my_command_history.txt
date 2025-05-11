@@ -23,3 +23,6 @@
 11-05-2025 23:11:33  397  git commit -am "Learn List"
 11-05-2025 23:11:37  398  git push
 11-05-2025 23:13:10  399  git add .
+11-05-2025 23:13:48  400  git commit -am "Learn Dictionary -> Examples  Explanation"
+11-05-2025 23:13:53  401  git push
+11-05-2025 23:18:02  402  git add .
