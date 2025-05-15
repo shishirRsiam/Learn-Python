@@ -35,3 +35,5 @@
 15-05-2025 22:55:23  392  "New Terminal"
 15-05-2025 22:58:02  392  "New Terminal"
 15-05-2025 22:58:04  393  git add .
+15-05-2025 22:58:14  394  git commit -am "update readme file"
+15-05-2025 22:58:18  395  git push
